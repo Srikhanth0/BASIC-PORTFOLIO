@@ -1,13 +1,2 @@
-# portfolio
-
-#TOOLS NEEDED AND IMPLEMENTATION
-
-Install visual studio code
-
-Get the live server extension
-
-Get the css,html,javascript extensions
-
-After creating the files and pasting our codes save it and press the golive button
-
-Now the site is live
+# PRODIGY_WD_TASK02
+I have developed a stopwatch web application, you can use HTML, CSS, and JavaScript. HTML is used to structure the elements of the application. By implementing functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times, users can accurately measure and record time intervals. With these technologies and functionalities, you can create an interactive and user-friendly stopwatch web application.
