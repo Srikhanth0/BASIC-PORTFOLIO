@@ -1,2 +1,3 @@
-# PRODIGY_WD_TASK02
-I have developed a stopwatch web application, you can use HTML, CSS, and JavaScript. HTML is used to structure the elements of the application. By implementing functions for starting, pausing, and resetting the stopwatch, as well as tracking and displaying lap times, users can accurately measure and record time intervals. With these technologies and functionalities, you can create an interactive and user-friendly stopwatch web application.
+# PRODIGY_WD_TASK03
+
+I have Build a personal portfolio website that showcases your skills, projects, and accomplishments as a web developer. Design an attractive and visually appealing layout that captures visitors' attention. Include a home page with a captivating headline, professional photo, and summary of your skills. Provide an "About Me" section with a detailed background, education, and professional experience. 
